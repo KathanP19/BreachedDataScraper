@@ -20,3 +20,15 @@
 16. Find home addresses
 17. Find bio-data of anyone almost
 18. Tool is not limited, but only ur imagination
+
+# Install
+- chmod u+x * && pip3 install -r requirements.txt
+
+# Running
+- python3 BreachedDataScraper.py
+
+ # Saving Data
+- ./url_writer.sh
+
+# Contact
+- mrharoonawan@gmail.com
