@@ -6,4 +6,6 @@ wget -i $url
 echo "";
 echo "";
 echo "";
-echo -e "[+] URLS have been written in file: $url "
+echo -e "[+] URLS have been written from file: $url "
+echo "";
+echo "";
