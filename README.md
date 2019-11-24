@@ -1,5 +1,5 @@
-# DataScraper
-- DataScraper can search any illegal, stolen, breached data in private nodes, darkweb, internet, end-to-end channels
+# Breached Data Scraper
+- Breached Data Scraper can search any illegal, stolen, breached data in private nodes, darkweb, internet, end-to-end channels
 
 # Creative
 1. Detect a dump
