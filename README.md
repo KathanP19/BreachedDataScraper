@@ -22,8 +22,19 @@
 18. Dig or find any breached data
 19. Tool is not limited, but only ur imagination
 
-# Built-in Feature
-- Automatic wildcard enabled
+# Interface
+# Working Examples
+<div align="center">
+    <img src="https://i.ibb.co/BLgRNF8/breachdatascraper1.png" width="400px"</img> 
+</div>
+
+<div align="center">
+    <img src="https://i.ibb.co/zQF5X8v/breachdatascraper2.png" width="400px"</img> 
+</div>
+
+<div align="center">
+    <img src="https://i.ibb.co/ZSdnNP6/breacheddatascraper3.png" width="400px"</img> 
+</div>
 
 
 # Install
@@ -34,6 +45,9 @@
 
 # Run
 - ./interface.sh
+
+# Built-in Feature
+- Automatic wildcard enabled
 
 # Results
 - Automated
