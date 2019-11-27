@@ -29,11 +29,14 @@
 # Install
 - chmod u+x * && pip3 install -r requirements.txt
 
-# Running
-- python3 BreachedDataScraper.py
+# Run
+- ./interface.sh
 
- # Saving Data
-- ./url_writer.sh
+# Results
+- Automated
+- Search Data
+- Saved Data
+- Extract Search Term Also
 
 # Contact
 - mrharoonawan@gmail.com
