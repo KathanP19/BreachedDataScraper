@@ -8,5 +8,3 @@ echo "";
 echo "";
 echo -e "[+] URLS have been written in file "
 echo "";
-./extractor.sh
-echo "";
