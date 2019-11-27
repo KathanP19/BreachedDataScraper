@@ -27,7 +27,10 @@
 
 
 # Install
-- chmod u+x * && pip3 install -r requirements.txt
+- Git Clone
+- chmod u+x *
+- pip install -r requirements.txt
+- pip3 install -r requirements.txt
 
 # Run
 - ./interface.sh
