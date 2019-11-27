@@ -28,11 +28,11 @@ def cardpwn():
 	urls = []
 	qlist = []
 	total_url = []
-	paste_sites = ['cl1p.net', 'dpaste', 'slexy', 'slexy.org', 'dumpz.org', 'hastebin', 'ideone', 'pastebin', 'pw.fabian-fingerle.de','gist.github.com','https://www.heypasteit.com/','ivpaste.com','mysticpaste.com','paste.org.ru','paste2.org','sebsauvage.net/paste/','slexy.org','squadedit.com','wklej.se','textsnip.com']
+	paste_sites = ['pastespot.com/search?q=', 'pastespot.com', 'cl1p.net', 'dpaste', 'slexy', 'slexy.org', 'dumpz.org', 'hastebin', 'ideone', 'pastebin', 'pw.fabian-fingerle.de','gist.github.com','https://www.heypasteit.com/','ivpaste.com','mysticpaste.com','paste.org.ru','paste2.org','sebsauvage.net/paste/','slexy.org','squadedit.com','wklej.se','textsnip.com']
 	card = input(G + '[+] ' + R +'Enter Search    ' + W)
 	try:
 		val = card
-		if len((val)) >= 1 and len((val)) <= 20:
+		if len((val)) >= 1 and len((val)) <= 30:
 			for site in paste_sites:
 				query = '{} {}'.format(site, card)
 				qlist.append(query)
